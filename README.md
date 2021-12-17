@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ckgrtdynz
-- 👀 I’m interested in philosphia, art and other good things
+- 👀 I’m interested in philosophia, art and other good things
 - 🌱 I’m currently learning universe and engineering
 
 <!---
